@@ -1,7 +1,9 @@
 # Welcome to Flights Service
 links to other micro services 
-- AuthServices [http://](https://github.com/hussainaabid99/Auth_Service)
-
+- [Auth_Service](https://github.com/hussainaabid99/Auth_Service)
+- [AirTicketBooking_Service](https://github.com/hussainaabid99/AirTicketBookingService)
+- [Reminder_Service](https://github.com/hussainaabid99/ReminderService)
+- [API_Gateway](https://github.com/hussainaabid99/API_Gateway)
 
 ## Project Setup
           - clone the project on your local
